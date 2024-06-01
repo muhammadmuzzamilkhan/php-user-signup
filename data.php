@@ -11,7 +11,7 @@
         crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
     <script src="script.js"></script>
-    <title>Web Engineering</title>
+    <title>User Data</title>
 </head>
 
 <body>
@@ -23,7 +23,7 @@
             <li><a href="#">Blogs</a></li>
             <li><a href="#">About</a></li>
             <li><a href="#">Contact Us</a></li> -->
-            <li><a href="data.html">Data</a></li>
+            <li><a href="data.php">Data</a></li>
         </ul>
     </div>
     <div class="data-table">
