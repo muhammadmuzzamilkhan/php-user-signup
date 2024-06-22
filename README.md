@@ -1,5 +1,7 @@
 # User Registration and Data Display System
 
+This is a simple web application that can do user registration and data display system. User can register and by filling the fields given on signup/registration form and can see users data that is added to the database. In this project, password encryption is also used to encrypt the password entered by user before storeing it to the database. 
+
 This repository contains a simple user registration and data display system built with PHP, MySQL, and Bootstrap. It includes the following functionalities:
 - User registration with form validation.
 - Displaying a list of registered users.
@@ -23,11 +25,11 @@ This repository contains a simple user registration and data display system buil
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/muhammadmuzzamilkhan/php-user-signup.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd php-user-signup
     ```
 3. Import the `user_db` database. Create a database in MySQL named `user_db` and import the `users` table:
     ```sql
@@ -98,10 +100,10 @@ This repository contains a simple user registration and data display system buil
 ## Screenshots
 
 ### Registration Form
-![Registration Form](images/registration_form.png)
+![Registration Form](screenshots/registration_form.png)
 
 ### User Data Table
-![User Data Table](images/user_data_table.png)
+![User Data Table](screenshots/user_data_table.png)
 
 ## Credits
 
